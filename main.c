@@ -19,7 +19,8 @@ int main(void)
    /*------------------- END TMU APPLICATION   ------------------------*/
    
    /*------------------- START SOS APPLICATION  ------------------------*/
-   //SosTest();   
+   //SosTest();
+   SOS_Run();
    /*------------------- END SOS APPLICATION   ------------------------*/
    
    /*------------------- START CAR APPLICATION  ------------------------*/
